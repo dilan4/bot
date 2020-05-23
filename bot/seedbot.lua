@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {669826262,880051030},--Sudo users
+    sudo_users = {994564140,880051030},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -243,6 +243,7 @@ Seyedan (@Seyedan25)
 
 Special thanks to:
 Juan Potato
+Dilan
 Siyanew
 Topkecleon
 Vamptacus
